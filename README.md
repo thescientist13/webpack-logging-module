@@ -1,4 +1,4 @@
-# webpack-util-logger
+# webpack-logging-module
 
 ## Overview
 Repo for designing / creating a logging utility for webpack, per this issue [discussion](https://github.com/webpack/webpack-cli/issues/87).
